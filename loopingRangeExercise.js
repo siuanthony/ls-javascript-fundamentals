@@ -1,3 +1,8 @@
+//INSTRUCTION: 
+// Define a function range which takes 3 integer parameters: start, end, and step.
+//The function should return an array of numbers from start to end counting by step.
+
+
 // First run 
 // function range(start, end, step){
 // 	for(var i = start; i <= end; i+=step){

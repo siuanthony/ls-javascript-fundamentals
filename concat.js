@@ -1,3 +1,6 @@
+//INSTRUCTION: 
+// Define a function concat, which, given two arrays, concatenates the arrays together.
+
 function concat(arrayOne, arrayTwo){
 	for(var i = 0; i < arrayTwo.length; i++){
 		arrayOne.push(arrayTwo[i]);

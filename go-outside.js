@@ -1,3 +1,6 @@
+//INSTRUCTION: 
+// What does temperature have to be for the program to tell us to pick a scarf? What about for it to tell us that short sleeves are OK?
+
 var temperature = 12;
 
 if (temperature < 0) {

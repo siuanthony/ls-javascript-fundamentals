@@ -1,3 +1,7 @@
+//INSTRUCTION: 
+// Define a function lastIndexOf, which, given an array and a value, returns the index of the last time the value occurs in the array. If the value never occurs, the function should return -1.
+
+
 function lastIndexOf(array, last){
 	var match = false;
 	var index;

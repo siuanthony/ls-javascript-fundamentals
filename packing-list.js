@@ -1,3 +1,6 @@
+//INSTRUCTION: 
+// https://web.compass.lighthouselabs.ca/activities/36
+
 var packingList = ["bowls", "plates", "pots", "pans", "eating utensils", "glasses", "cups", "cooking utensils"];
 
 console.log("Kitchen stuff to pack:");

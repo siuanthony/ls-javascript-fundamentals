@@ -1,3 +1,12 @@
+// INSTRUCTIONS: 
+//You'll be given a two dimensional array (an array of arrays), 
+//each sub-array will only have two values. The first will be the value to repeat, 
+//the second will be the amount of times to repeat that value.
+
+// Your function repeatNumbers should return a string with each of the given values 
+//repeated the appropriate number of times, each set of values separated by a comma. 
+//If there is only one set of values then you should omit the comma.
+
 var repeatNumbers = function(data){
 
   var num = "";
